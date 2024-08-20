@@ -14,7 +14,7 @@ Florencia es famosa por su impresionante patrimonio artístico y arquitectónico
 
 <p align = "center">
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/420px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg"
-    alt= "Duomo" width= "500">
+    width= "500">
 </p>
 <p align = "center"> Fuente:
     <a href=["URI"](https://www.wikimedia.org/)>wikimedia</a>
