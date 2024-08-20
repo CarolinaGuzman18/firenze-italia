@@ -25,7 +25,7 @@ Florencia es famosa por su impresionante patrimonio artístico y arquitectónico
 
 <p align = "center">
     <img src = "https://www.datocms-assets.com/103094/1689101169-uffizi_gallery-prev.jpg"
-    alt= "Uffizi" width= "500">
+    width= "500">
 </p>
 
 <p align = "center"> Fuente:
