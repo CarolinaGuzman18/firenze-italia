@@ -16,7 +16,7 @@ Florencia es famosa por su impresionante patrimonio artístico y arquitectónico
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/420px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg">
 </p>
 <p align = "center"> Fuente:
-    <a href=["URI"](https://www.wikimedia.org/)>wikimedia</a>
+    <a href="https://www.wikimedia.org/">wikimedia</a>
 </p>
 
 
@@ -28,7 +28,7 @@ Florencia es famosa por su impresionante patrimonio artístico y arquitectónico
 </p>
 
 <p align = "center"> Fuente:
-    <a href=["URI"](https://www.uffizi.it/en)>Uffizi Gallery</a>
+    <a href="https://www.uffizi.it/en">Uffizi Gallery</a>
 </p>
 
 **Cruzar el *Ponte Vecchio***: Este famoso puente medieval, conocido por sus tiendas de joyas, es uno de los símbolos de Florencia. Es especialmente hermoso al atardecer.
@@ -39,7 +39,7 @@ Florencia es famosa por su impresionante patrimonio artístico y arquitectónico
 </p>
 
 <p align = "center"> Fuente:
-    <a href=["URI"](www.viajarFlorencia.com)> Viajar Florencia.com</a>
+    <a href="www.viajarFlorencia.com"> Viajar Florencia.com</a>
 </p>
 
 **Pasear por el *Jardín de Boboli***: Situado detrás del Palacio Pitti, este extenso jardín es un oasis de tranquilidad en el corazón de la ciudad. Es perfecto para relajarse y disfrutar de vistas espectaculares.
@@ -52,7 +52,7 @@ Florencia es famosa por su impresionante patrimonio artístico y arquitectónico
 
 
 <p align = "center"> Fuente:
-    <a href=["URI"](https://media.tacdn.com/)> Media TACDN </a>
+    <a href="https://media.tacdn.com"> Media TACDN </a>
 </p>
 
 
@@ -64,7 +64,7 @@ Florencia es famosa por su impresionante patrimonio artístico y arquitectónico
 </p>
 
 <p align = "center"> Fuente:
-    <a href=["URI"](https://en.wikipedia.org/wiki/Palazzo_Vecchio)> Wikimedia </a>
+    <a href="https://en.wikipedia.org/wiki/Palazzo_Vecchio"> Wikimedia </a>
 </p>
 
 **Probar la cocina toscana**: No puedes irte de Florencia sin degustar platos tradicionales como la *bistecca alla fiorentina*, la *ribollita* o la *pappa al pomodoro*. Además, la ciudad es famosa por sus heladerías, donde puedes probar auténtico gelato italiano.
@@ -85,8 +85,8 @@ Florencia es famosa por su impresionante patrimonio artístico y arquitectónico
 
 3. ##### Pappa al pomodoro
 <p align = "center">
-    <img src = "imagenes/pappa.jpg"
-    alt= "Pappa" width= "400">
+ <img src = "https://www.tavolartegusto.it/wp/wp-content/uploads/2022/09/pappa-al-pomodoro.jpg"
+    alt= "Ribollita" width= "400">
 </p>
 
 **Disfrutar de las vistas desde *Piazzale Michelangelo***: Esta plaza ofrece una vista panorámica impresionante de Florencia, especialmente al atardecer. Es un lugar perfecto para tomar fotos y disfrutar de la ciudad desde lo alto.
