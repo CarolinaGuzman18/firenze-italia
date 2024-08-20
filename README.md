@@ -75,4 +75,3 @@ Florencia es famosa por su impresionante patrimonio artístico y arquitectónico
     <img src = "https://www.viajarflorencia.com/wp-content/uploads/plaza-de-miguel-angel.jpg"
     alt= "Duomo"width= "500">
 </p>
-
